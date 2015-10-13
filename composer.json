@@ -31,7 +31,7 @@
 	"extra": {
 		"patternlab": {
 			"config": { 
-				"lineageMatch": "{%([ ]+)?(?:extends|include|embed) [&quot;\&#039;]([A-Za-z0-9-_]+)[&quot;\&#039;](.*)%}",
+				"lineageMatch": "{%([ ]+)?(?:extends|include|embed) [&quot;\\&#039;]([A-Za-z0-9-_]+)[&quot;\\&#039;](.*)%}",
 				"lineageMatchKey": 2,
 				"patternExtension": "twig",
 				"twigDebug": false,
